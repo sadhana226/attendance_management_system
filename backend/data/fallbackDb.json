@@ -1,0 +1,692 @@
+{
+  "users": [
+    {
+      "_id": "yl7bvn2d2zp7asjycd0j6t",
+      "username": "Prof. Selvakumar",
+      "email": "selvakumar@college.edu",
+      "password": "$2a$10$kfK.ZxG/sR/2A0EZlLS/tO51S6IOIeVXBTPg.dOCvpH3tU0HDuDLu",
+      "role": "admin",
+      "createdAt": "2026-07-01T14:20:15.630Z",
+      "updatedAt": "2026-07-01T14:20:15.631Z"
+    },
+    {
+      "_id": "sadhanafacultyadminaccountid",
+      "username": "Sadhana",
+      "email": "sadhana@college.edu",
+      "password": "$2a$10$kfK.ZxG/sR/2A0EZlLS/tO51S6IOIeVXBTPg.dOCvpH3tU0HDuDLu",
+      "role": "admin",
+      "createdAt": "2026-07-01T14:26:00.000Z",
+      "updatedAt": "2026-07-01T14:26:00.000Z"
+    },
+    {
+      "_id": "vtawwulwo5fz68blwz37la",
+      "username": "sadhana",
+      "email": "sadhana1@college.edu",
+      "password": "$2a$10$LU/cSVA.kRjCXi0RClpdQuFcmI2F0Wdir54hB.esJZ2byq8qkTLza",
+      "role": "admin",
+      "createdAt": "2026-07-01T15:53:16.130Z",
+      "updatedAt": "2026-07-01T15:53:16.130Z"
+    }
+  ],
+  "students": [
+    {
+      "_id": "np9p4uas8upplm3zgov5w",
+      "name": "Kavin",
+      "email": "kavin@college.edu",
+      "rollNumber": "CS2023001",
+      "class": "Computer Science - Sem VI",
+      "attendanceStats": {
+        "present": 14,
+        "absent": 1,
+        "late": 3
+      },
+      "createdAt": "2026-07-01T14:20:15.633Z",
+      "updatedAt": "2026-07-01T14:20:15.633Z"
+    },
+    {
+      "_id": "w2asva28mut7t0s0k03cq",
+      "name": "Iniya",
+      "email": "iniya@college.edu",
+      "rollNumber": "CS2023002",
+      "class": "Computer Science - Sem VI",
+      "attendanceStats": {
+        "present": 15,
+        "absent": 1,
+        "late": 2
+      },
+      "createdAt": "2026-07-01T14:20:15.634Z",
+      "updatedAt": "2026-07-01T14:20:15.634Z"
+    },
+    {
+      "_id": "to2c7rfs0ed01p7isjp1u",
+      "name": "Tharun",
+      "email": "tharun@college.edu",
+      "rollNumber": "CS2023003",
+      "class": "Computer Science - Sem VI",
+      "attendanceStats": {
+        "present": 15,
+        "absent": 2,
+        "late": 1
+      },
+      "createdAt": "2026-07-01T14:20:15.637Z",
+      "updatedAt": "2026-07-01T14:20:15.637Z"
+    },
+    {
+      "_id": "2vvxrwmawx1ipkuy8n9qkp",
+      "name": "Ananya",
+      "email": "ananya@college.edu",
+      "rollNumber": "CS2023004",
+      "class": "Computer Science - Sem VI",
+      "attendanceStats": {
+        "present": 14,
+        "absent": 1,
+        "late": 3
+      },
+      "createdAt": "2026-07-01T14:20:15.639Z",
+      "updatedAt": "2026-07-01T14:20:15.639Z"
+    },
+    {
+      "_id": "qfuk6hhie4ltrf8igzd6xq",
+      "name": "Yazhan",
+      "email": "yazhan@college.edu",
+      "rollNumber": "CS2023005",
+      "class": "Computer Science - Sem VI",
+      "attendanceStats": {
+        "present": 13,
+        "absent": 2,
+        "late": 3
+      },
+      "createdAt": "2026-07-01T14:20:15.640Z",
+      "updatedAt": "2026-07-01T14:20:15.640Z"
+    },
+    {
+      "_id": "t7iaqsz756b7q2e3a5mz8q",
+      "name": "Karthik",
+      "email": "karthik@college.edu",
+      "rollNumber": "CS2023006",
+      "class": "Computer Science - Sem VI",
+      "attendanceStats": {
+        "present": 15,
+        "absent": 0,
+        "late": 3
+      },
+      "createdAt": "2026-07-01T14:20:15.641Z",
+      "updatedAt": "2026-07-01T14:20:15.641Z"
+    },
+    {
+      "_id": "mb9bmlfztt3on610m479b",
+      "name": "Nila",
+      "email": "nila@college.edu",
+      "rollNumber": "CS2023007",
+      "class": "Computer Science - Sem VI",
+      "attendanceStats": {
+        "present": 11,
+        "absent": 5,
+        "late": 2
+      },
+      "createdAt": "2026-07-01T14:20:15.643Z",
+      "updatedAt": "2026-07-01T14:20:15.643Z"
+    },
+    {
+      "_id": "4ds4r6te0fb7mams9sacc8",
+      "name": "Diya",
+      "email": "diya@college.edu",
+      "rollNumber": "CS2023008",
+      "class": "Computer Science - Sem VI",
+      "attendanceStats": {
+        "present": 16,
+        "absent": 1,
+        "late": 1
+      },
+      "createdAt": "2026-07-01T14:20:15.645Z",
+      "updatedAt": "2026-07-01T14:20:15.645Z"
+    },
+    {
+      "_id": "izlg60x779ne7ih9c20ufi",
+      "name": "Kishore",
+      "email": "kishore@college.edu",
+      "rollNumber": "IT2024001",
+      "class": "Information Technology - Sem IV",
+      "attendanceStats": {
+        "present": 11,
+        "absent": 3,
+        "late": 1
+      },
+      "createdAt": "2026-07-01T14:20:15.648Z",
+      "updatedAt": "2026-07-01T14:20:15.648Z"
+    },
+    {
+      "_id": "q8gsf7k9pskbm49vwkq1ud",
+      "name": "Oviya",
+      "email": "oviya@college.edu",
+      "rollNumber": "IT2024002",
+      "class": "Information Technology - Sem IV",
+      "attendanceStats": {
+        "present": 12,
+        "absent": 2,
+        "late": 1
+      },
+      "createdAt": "2026-07-01T14:20:15.650Z",
+      "updatedAt": "2026-07-01T14:20:15.650Z"
+    },
+    {
+      "_id": "4qb73thp2j8c7i1nsshf2r",
+      "name": "Mithran",
+      "email": "mithran@college.edu",
+      "rollNumber": "IT2024003",
+      "class": "Information Technology - Sem IV",
+      "attendanceStats": {
+        "present": 11,
+        "absent": 1,
+        "late": 3
+      },
+      "createdAt": "2026-07-01T14:20:15.652Z",
+      "updatedAt": "2026-07-01T14:20:15.652Z"
+    },
+    {
+      "_id": "m65mgyk5l5bpybwez9nr",
+      "name": "Dharshan",
+      "email": "dharshan@college.edu",
+      "rollNumber": "IT2024004",
+      "class": "Information Technology - Sem IV",
+      "attendanceStats": {
+        "present": 11,
+        "absent": 1,
+        "late": 3
+      },
+      "createdAt": "2026-07-01T14:20:15.654Z",
+      "updatedAt": "2026-07-01T14:20:15.654Z"
+    },
+    {
+      "_id": "kwaqbqnckszs4bym16nk",
+      "name": "Kayal",
+      "email": "kayal@college.edu",
+      "rollNumber": "IT2024005",
+      "class": "Information Technology - Sem IV",
+      "attendanceStats": {
+        "present": 9,
+        "absent": 5,
+        "late": 1
+      },
+      "createdAt": "2026-07-01T14:20:15.657Z",
+      "updatedAt": "2026-07-01T14:20:15.657Z"
+    },
+    {
+      "_id": "ry19o762u4oi2nhl06rp1k",
+      "name": "Mukilan",
+      "email": "mukilan@college.edu",
+      "rollNumber": "IT2024006",
+      "class": "Information Technology - Sem IV",
+      "attendanceStats": {
+        "present": 9,
+        "absent": 2,
+        "late": 4
+      },
+      "createdAt": "2026-07-01T14:20:15.660Z",
+      "updatedAt": "2026-07-01T14:20:15.660Z"
+    }
+  ],
+  "attendance": [
+    {
+      "_id": "x1f3vmqeb18q6kxqgtrgor",
+      "student": "np9p4uas8upplm3zgov5w",
+      "studentRollNumber": "CS2023001",
+      "class": "Computer Science - Sem VI",
+      "subject": "Machine Learning",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T15:59:49.082Z",
+      "updatedAt": "2026-07-01T16:10:13.801Z"
+    },
+    {
+      "_id": "2iebdygw02bwvaybkct3y",
+      "student": "w2asva28mut7t0s0k03cq",
+      "studentRollNumber": "CS2023002",
+      "class": "Computer Science - Sem VI",
+      "subject": "Machine Learning",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T15:59:49.093Z",
+      "updatedAt": "2026-07-01T16:10:13.809Z"
+    },
+    {
+      "_id": "nyoh2fpo198tj60z4tvsc",
+      "student": "to2c7rfs0ed01p7isjp1u",
+      "studentRollNumber": "CS2023003",
+      "class": "Computer Science - Sem VI",
+      "subject": "Machine Learning",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T15:59:49.097Z",
+      "updatedAt": "2026-07-01T16:10:13.815Z"
+    },
+    {
+      "_id": "w4osvxmnx1g2c1shku6npc",
+      "student": "2vvxrwmawx1ipkuy8n9qkp",
+      "studentRollNumber": "CS2023004",
+      "class": "Computer Science - Sem VI",
+      "subject": "Machine Learning",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T15:59:49.102Z",
+      "updatedAt": "2026-07-01T16:10:13.818Z"
+    },
+    {
+      "_id": "6n8b9ft8ht5h2s3cmxno",
+      "student": "qfuk6hhie4ltrf8igzd6xq",
+      "studentRollNumber": "CS2023005",
+      "class": "Computer Science - Sem VI",
+      "subject": "Machine Learning",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T15:59:49.105Z",
+      "updatedAt": "2026-07-01T16:10:13.824Z"
+    },
+    {
+      "_id": "7a5nnbzyw54yz01umq0y6",
+      "student": "t7iaqsz756b7q2e3a5mz8q",
+      "studentRollNumber": "CS2023006",
+      "class": "Computer Science - Sem VI",
+      "subject": "Machine Learning",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T15:59:49.116Z",
+      "updatedAt": "2026-07-01T16:10:13.829Z"
+    },
+    {
+      "_id": "ro3u03wandhd72ws9050x5",
+      "student": "mb9bmlfztt3on610m479b",
+      "studentRollNumber": "CS2023007",
+      "class": "Computer Science - Sem VI",
+      "subject": "Machine Learning",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T15:59:49.121Z",
+      "updatedAt": "2026-07-01T16:10:13.841Z"
+    },
+    {
+      "_id": "or6bosuegmm7j1u66ynj2u",
+      "student": "4ds4r6te0fb7mams9sacc8",
+      "studentRollNumber": "CS2023008",
+      "class": "Computer Science - Sem VI",
+      "subject": "Machine Learning",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T15:59:49.126Z",
+      "updatedAt": "2026-07-01T16:10:13.969Z"
+    },
+    {
+      "_id": "nnkr5uyedle71g177y3ag",
+      "student": "np9p4uas8upplm3zgov5w",
+      "studentRollNumber": "CS2023001",
+      "class": "Computer Science - Sem VI",
+      "subject": "Web Engineering",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:01:24.344Z",
+      "updatedAt": "2026-07-01T16:10:26.593Z"
+    },
+    {
+      "_id": "ylx68t9qxi3xuo9e1hzf1",
+      "student": "w2asva28mut7t0s0k03cq",
+      "studentRollNumber": "CS2023002",
+      "class": "Computer Science - Sem VI",
+      "subject": "Web Engineering",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:01:24.542Z",
+      "updatedAt": "2026-07-01T16:10:26.599Z"
+    },
+    {
+      "_id": "od1v2eukh3qe12l1j8m5ie",
+      "student": "to2c7rfs0ed01p7isjp1u",
+      "studentRollNumber": "CS2023003",
+      "class": "Computer Science - Sem VI",
+      "subject": "Web Engineering",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:01:24.681Z",
+      "updatedAt": "2026-07-01T16:10:26.604Z"
+    },
+    {
+      "_id": "nj8m46nolwkorjwvb5jm",
+      "student": "2vvxrwmawx1ipkuy8n9qkp",
+      "studentRollNumber": "CS2023004",
+      "class": "Computer Science - Sem VI",
+      "subject": "Web Engineering",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:01:24.690Z",
+      "updatedAt": "2026-07-01T16:10:26.609Z"
+    },
+    {
+      "_id": "dr5nuokxyudd25ckcwgtf6",
+      "student": "qfuk6hhie4ltrf8igzd6xq",
+      "studentRollNumber": "CS2023005",
+      "class": "Computer Science - Sem VI",
+      "subject": "Web Engineering",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:01:24.891Z",
+      "updatedAt": "2026-07-01T16:10:26.613Z"
+    },
+    {
+      "_id": "711ehfo82n55jqa0nygj8",
+      "student": "t7iaqsz756b7q2e3a5mz8q",
+      "studentRollNumber": "CS2023006",
+      "class": "Computer Science - Sem VI",
+      "subject": "Web Engineering",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:01:25.002Z",
+      "updatedAt": "2026-07-01T16:10:26.617Z"
+    },
+    {
+      "_id": "vg9wmy04oraecrahdlmf19",
+      "student": "mb9bmlfztt3on610m479b",
+      "studentRollNumber": "CS2023007",
+      "class": "Computer Science - Sem VI",
+      "subject": "Web Engineering",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:01:25.012Z",
+      "updatedAt": "2026-07-01T16:10:26.622Z"
+    },
+    {
+      "_id": "2qegyxojirbqotvxwj5fi",
+      "student": "4ds4r6te0fb7mams9sacc8",
+      "studentRollNumber": "CS2023008",
+      "class": "Computer Science - Sem VI",
+      "subject": "Web Engineering",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:01:25.035Z",
+      "updatedAt": "2026-07-01T16:10:26.625Z"
+    },
+    {
+      "_id": "zidaepj7rsdrnjrefbsey",
+      "student": "np9p4uas8upplm3zgov5w",
+      "studentRollNumber": "CS2023001",
+      "class": "Computer Science - Sem VI",
+      "subject": "Computer Networks",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:10:50.862Z",
+      "updatedAt": "2026-07-01T16:10:50.862Z"
+    },
+    {
+      "_id": "xdv1rh02d2c9n7v3z9kj7",
+      "student": "w2asva28mut7t0s0k03cq",
+      "studentRollNumber": "CS2023002",
+      "class": "Computer Science - Sem VI",
+      "subject": "Computer Networks",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:10:50.868Z",
+      "updatedAt": "2026-07-01T16:10:50.868Z"
+    },
+    {
+      "_id": "hyxw08yb1g7co1aouz2on",
+      "student": "to2c7rfs0ed01p7isjp1u",
+      "studentRollNumber": "CS2023003",
+      "class": "Computer Science - Sem VI",
+      "subject": "Computer Networks",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:10:50.875Z",
+      "updatedAt": "2026-07-01T16:10:50.875Z"
+    },
+    {
+      "_id": "k65zzpc1wtpdywh8yedu8",
+      "student": "2vvxrwmawx1ipkuy8n9qkp",
+      "studentRollNumber": "CS2023004",
+      "class": "Computer Science - Sem VI",
+      "subject": "Computer Networks",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:10:50.882Z",
+      "updatedAt": "2026-07-01T16:10:50.882Z"
+    },
+    {
+      "_id": "qq9mu67xfv3inwwh3wwmf",
+      "student": "qfuk6hhie4ltrf8igzd6xq",
+      "studentRollNumber": "CS2023005",
+      "class": "Computer Science - Sem VI",
+      "subject": "Computer Networks",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:10:50.889Z",
+      "updatedAt": "2026-07-01T16:10:50.889Z"
+    },
+    {
+      "_id": "qn8qkmkna1ip2wopz5sh9",
+      "student": "t7iaqsz756b7q2e3a5mz8q",
+      "studentRollNumber": "CS2023006",
+      "class": "Computer Science - Sem VI",
+      "subject": "Computer Networks",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:10:50.896Z",
+      "updatedAt": "2026-07-01T16:10:50.896Z"
+    },
+    {
+      "_id": "8n8ure5wc3wni572231mh",
+      "student": "mb9bmlfztt3on610m479b",
+      "studentRollNumber": "CS2023007",
+      "class": "Computer Science - Sem VI",
+      "subject": "Computer Networks",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:10:50.900Z",
+      "updatedAt": "2026-07-01T16:10:50.900Z"
+    },
+    {
+      "_id": "tjova7fjldwyvvmmtc2i",
+      "student": "4ds4r6te0fb7mams9sacc8",
+      "studentRollNumber": "CS2023008",
+      "class": "Computer Science - Sem VI",
+      "subject": "Computer Networks",
+      "date": "2026-07-01T00:00:00.000Z",
+      "status": "Present",
+      "markedBy": "vtawwulwo5fz68blwz37la",
+      "createdAt": "2026-07-01T16:10:51.032Z",
+      "updatedAt": "2026-07-01T16:10:51.032Z"
+    }
+  ],
+  "timetables": [
+    {
+      "_id": "lro1rttz85hhmhotrew4n",
+      "day": "Monday",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "class": "Computer Science - Sem VI",
+      "subject": "Machine Learning",
+      "createdAt": "2026-07-01T14:20:16.474Z",
+      "updatedAt": "2026-07-01T14:20:16.474Z"
+    },
+    {
+      "_id": "3tyqv58bunm8jss3lugp",
+      "day": "Monday",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "class": "Computer Science - Sem VI",
+      "subject": "Web Engineering",
+      "createdAt": "2026-07-01T14:20:16.477Z",
+      "updatedAt": "2026-07-01T14:20:16.477Z"
+    },
+    {
+      "_id": "yup0igg5ccr5e0b90anb3c",
+      "day": "Tuesday",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "class": "Computer Science - Sem VI",
+      "subject": "Computer Networks",
+      "createdAt": "2026-07-01T14:20:16.481Z",
+      "updatedAt": "2026-07-01T14:20:16.481Z"
+    },
+    {
+      "_id": "yot5ngcncd0wlhm5nn4nx9",
+      "day": "Tuesday",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "class": "Computer Science - Sem VI",
+      "subject": "Machine Learning",
+      "createdAt": "2026-07-01T14:20:16.485Z",
+      "updatedAt": "2026-07-01T14:20:16.485Z"
+    },
+    {
+      "_id": "xpteht4cuibxlruysmbngc",
+      "day": "Wednesday",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "class": "Computer Science - Sem VI",
+      "subject": "Web Engineering",
+      "createdAt": "2026-07-01T14:20:16.490Z",
+      "updatedAt": "2026-07-01T14:20:16.490Z"
+    },
+    {
+      "_id": "uc1vg8liecc4y4n735rvke",
+      "day": "Wednesday",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "class": "Computer Science - Sem VI",
+      "subject": "Computer Networks",
+      "createdAt": "2026-07-01T14:20:16.494Z",
+      "updatedAt": "2026-07-01T14:20:16.494Z"
+    },
+    {
+      "_id": "gnskmyihid9lcvfknrhbw",
+      "day": "Thursday",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "class": "Computer Science - Sem VI",
+      "subject": "Machine Learning",
+      "createdAt": "2026-07-01T14:20:16.499Z",
+      "updatedAt": "2026-07-01T14:20:16.499Z"
+    },
+    {
+      "_id": "9dcqeocvkxb36ivs617m",
+      "day": "Thursday",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "class": "Computer Science - Sem VI",
+      "subject": "Web Engineering",
+      "createdAt": "2026-07-01T14:20:16.505Z",
+      "updatedAt": "2026-07-01T14:20:16.505Z"
+    },
+    {
+      "_id": "qnte08awrhkx7gmdza82g9",
+      "day": "Friday",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "class": "Computer Science - Sem VI",
+      "subject": "Computer Networks",
+      "createdAt": "2026-07-01T14:20:16.510Z",
+      "updatedAt": "2026-07-01T14:20:16.510Z"
+    },
+    {
+      "_id": "tbxtlijdt3uui4foi8u9",
+      "day": "Monday",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "class": "Information Technology - Sem IV",
+      "subject": "Database Systems",
+      "createdAt": "2026-07-01T14:20:16.515Z",
+      "updatedAt": "2026-07-01T14:20:16.515Z"
+    },
+    {
+      "_id": "kxyneuwb9pi5vxngyj3jsf",
+      "day": "Tuesday",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "class": "Information Technology - Sem IV",
+      "subject": "Software Engineering",
+      "createdAt": "2026-07-01T14:20:16.520Z",
+      "updatedAt": "2026-07-01T14:20:16.521Z"
+    },
+    {
+      "_id": "d59hcvns6hkjwqbqza1g8",
+      "day": "Wednesday",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "class": "Information Technology - Sem IV",
+      "subject": "Automata Theory",
+      "createdAt": "2026-07-01T14:20:16.525Z",
+      "updatedAt": "2026-07-01T14:20:16.525Z"
+    },
+    {
+      "_id": "ijsy7hw4wf51g99smuhd7",
+      "day": "Thursday",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "class": "Information Technology - Sem IV",
+      "subject": "Database Systems",
+      "createdAt": "2026-07-01T14:20:16.529Z",
+      "updatedAt": "2026-07-01T14:20:16.529Z"
+    },
+    {
+      "_id": "z6clqagiv4iafnsmo6ndhm",
+      "day": "Friday",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "class": "Information Technology - Sem IV",
+      "subject": "Software Engineering",
+      "createdAt": "2026-07-01T14:20:16.532Z",
+      "updatedAt": "2026-07-01T14:20:16.532Z"
+    }
+  ],
+  "leaveRequests": [
+    {
+      "_id": "e92iem3au3dc8zw67fylc",
+      "student": "np9p4uas8upplm3zgov5w",
+      "studentRollNumber": "CS2023001",
+      "class": "Computer Science - Sem VI",
+      "startDate": "2026-06-29T00:00:00.000Z",
+      "endDate": "2026-07-31T00:00:00.000Z",
+      "type": "Other",
+      "reason": "fever",
+      "documentName": "medical",
+      "status": "Approved",
+      "createdAt": "2026-07-01T15:55:57.843Z",
+      "updatedAt": "2026-07-01T15:56:32.347Z",
+      "approvedBy": "vtawwulwo5fz68blwz37la"
+    }
+  ],
+  "auditLogs": [
+    {
+      "_id": "k3us0rdy31jo2huh6x6yr",
+      "timestamp": "2026-07-01T15:55:59.256Z",
+      "operator": "np9p4uas8upplm3zgov5w",
+      "operatorName": "Kavin",
+      "action": "SUBMIT_LEAVE",
+      "target": "Kavin (CS2023001)",
+      "details": "Submitted a Other request from 29/6/2026 to 31/7/2026",
+      "createdAt": "2026-07-01T15:55:59.256Z",
+      "updatedAt": "2026-07-01T15:55:59.256Z"
+    }
+  ],
+  "settings": {}
+}
