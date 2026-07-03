@@ -1,6 +1,6 @@
-# AttendIQ - Automated Student Attendance & Analytics Portal
+karka online portal - Automated Student Attendance & Analytics Portal
 
-AttendIQ is a modern, high-fidelity college attendance management and visual analytics system built using the **MERN (MongoDB, Express, React, Node.js)** stack. It features a stunning, premium **glassmorphism style design**, responsive analytics charts, custom drift animations, and a seamless light/dark mode theme engine.
+karka (கற்க) is a modern, high-fidelity college attendance management and visual analytics system built using the **MERN (MongoDB, Express, React, Node.js)** stack. It features a stunning, premium **glassmorphism style design**, responsive analytics charts, custom drift animations, and a seamless light/dark mode theme engine.
 
 ---
 
